@@ -10,3 +10,12 @@
     import 'relative/path/to/stylesheet.scss';
 
 */
+
+.delete-icon {
+    cursor: pointer;
+    transition: color 0.3s ease;
+}
+
+.delete-icon:hover {
+    color: blue;
+}
